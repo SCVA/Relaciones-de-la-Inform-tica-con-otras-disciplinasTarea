@@ -1,0 +1,10 @@
+{
+    "type":"NetworkGraph",
+    "label":"Relaciones de la Informática con otras disciplinas",
+    "protocol":"OLSR",
+    "version": "v0.1",
+    "nodes":[
+        {"id":"Informatica","name":"l133is73","location":{"lng":24.78,"lat":49.182249999999996}},
+        {"id":"Lenguaje","name":"yyjd696o","location":{"lng":17.217,"lat":49.63475}}
+    ],
+    "links":[{"source":"Informatica","target":"Lenguaje","cost":1.3779296875}]}

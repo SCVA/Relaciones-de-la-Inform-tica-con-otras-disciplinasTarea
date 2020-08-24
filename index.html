@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Relaciones de la Informática con otras disciplinas</title>
+    <meta charset="utf-8">
+    <!-- theme can be easily customized via css -->
+    <link href="../src/css/netjsongraph-theme.css" rel="stylesheet">
+    <link href="../src/css/netjsongraph.css" rel="stylesheet">
+</head>
+<body background="./data/fondo.jpg">
+    <script type="text/javascript" src="../dist/netjsongraph.min.js"></script>
+    <script type="text/javascript">
+        // `graph` render defaultly.
+        // We can add data gradually by array.
+        const graph = new NetJSONGraph(["./data/netjsonAppendData/1.json", "./data/netjsonAppendData/3.json"]);
+        graph.render();
+    </script>
+</html>
