@@ -1,5 +1,6 @@
 # Relaciones de la Informática con otras disciplinas
 <b>INFORMATICA Gr:195-2</b>
+<br>
 <b>Integrante</b>
 <ol>
   <li>Sebastian Camilo Vanegas Ayala - 20151020016</li>
