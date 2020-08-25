@@ -9,3 +9,4 @@
   <li>sudo npm install</li>
   <li>sudo npm run start</li>
 </ol>
+<img src="RelacionesInformaticaDisciplinas.png">
